@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/ricardodev10/rocketnotes-api/issues"
   },
-  "homepage": "https://github.com/ricardodev10/rocketnotes-api#readme"
+  "homepage": "https://github.com/ricardodev10/rocketnotes-api#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }
