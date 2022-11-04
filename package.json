@@ -1,0 +1,20 @@
+{
+  "name": "rocketnotes-api",
+  "version": "1.0.0",
+  "description": "API desenvolvida para o projeto Rocket Notes.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ricardodev10/rocketnotes-api.git"
+  },
+  "keywords": [],
+  "author": "Ricardo Junior",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ricardodev10/rocketnotes-api/issues"
+  },
+  "homepage": "https://github.com/ricardodev10/rocketnotes-api#readme"
+}
