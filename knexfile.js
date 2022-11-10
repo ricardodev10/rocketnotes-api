@@ -6,6 +6,6 @@ module.exports = {
     connection: {
       filename: hash.resolve(__dirname, "src", "database", "database.db")
     },
-    useNullDefault: true
+    useNullAsDefault: true
   },
 };
