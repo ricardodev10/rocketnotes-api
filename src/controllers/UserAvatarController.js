@@ -28,3 +28,4 @@ class UserAvatarController {
 }
 
 module.exports = UserAvatarController; //exporta a classe UserAvatarController para que ela possa ser usada em outros arquivos que a importem.
+    
